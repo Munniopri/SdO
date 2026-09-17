@@ -12,7 +12,7 @@ board en communicatie)*
 * **Branching:** Niemand commit rechtstreeks naar
 branches.
 `
-main
+mainn
 `
 . We werken via
 * **Pull Requests (PR):** Een PR mag pas worden gemerged als minimaal 1 ander
