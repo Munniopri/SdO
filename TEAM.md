@@ -1,6 +1,6 @@
 # Team Charter: Food4Thought
 ## 1. Onze Ambitie
-* We willen 
+* We willen de 
 ## 2. Rol- en Taakverdeling
 *Iedereen schrijft code en ontwerpt, maar de Leads hakken de knopen door bij
 twijfel.*
