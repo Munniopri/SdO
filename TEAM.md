@@ -1,6 +1,6 @@
 # Team Charter: Food4Thought
 ## 1. Onze Ambitie
-* We willen de iojefefefefefeefefefefefe
+* We willen de iojefefefefefeefefefefefeglub
 ## 2. Rol- en Taakverdeling
 *Iedereen schrijft code en ontwerpt, maar de Leads hakken de knopen door bij
 twijfel.*
@@ -12,7 +12,7 @@ board en communicatie)*
 * **Branching:** Niemand commit rechtstreeks naar
 branches.
 `
-main
+mainn
 `
 . We werken via
 * **Pull Requests (PR):** Een PR mag pas worden gemerged als minimaal 1 ander
