@@ -6,8 +6,8 @@
 twijfel.*
 * **Scrum Master:** Mees Buis *(Verantwoordelijk voor Stand-ups, GitHub Projects
 board en communicatie)*
-* **Lead Design:** [Naam] *(Bewaakt visuele stijl en UI/UX keuzes)*
-* **Lead Git/Dev:** [Naam] *(Bewaakt code quality en let streng op PR's)*
+* **Lead Design:** Jennifer Steć *(Bewaakt visuele stijl en UI/UX keuzes)*
+* **Lead Git/Dev:** Mees Buis *(Bewaakt code quality en let streng op PR's)*
 ## 3. GitHub & Code Afspraken
 * **Branching:** Niemand commit rechtstreeks naar
 branches.
